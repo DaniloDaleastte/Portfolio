@@ -1,6 +1,7 @@
 import styles from './Card.module.css'
 import {FaHtml5, FaCss3Alt, FaJs, FaReact } from 'react-icons/fa'
 import { BsArrowRight } from 'react-icons/bs'
+import { Link } from 'react-router-dom'
 
 
 function Card({ name, description, html_url }) {
@@ -15,9 +16,9 @@ function Card({ name, description, html_url }) {
                     <FaJs/>
                     <FaReact/>
                 </div>
-                <a hfref={html_url} target='_blank' rel='nopenner norefferer' className={styles.botao}>
+                <Link to={html_url} target='_blank' rel='nopenner norefferer' className={styles.botao}>
                     <BsArrowRight/>
-                </a>
+                </Link>
             </div>
         </section>
     )
