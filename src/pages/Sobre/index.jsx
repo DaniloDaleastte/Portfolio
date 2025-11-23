@@ -19,9 +19,13 @@ function Sobre() {
                     <p>Sou <span>Danilo Daleastte Faotto</span> <br />
                     <strong>Dev Front-end</strong></p> 
 
-                    <p>Estudante com experiência em comércios, sempre buscando conhecimentos na área
-                    da tecnologia. <br/> Possuo diversos cursos e projetos práticos.<br/> Procuro oportunidade na área de
-                    desenvolvimento web/software.</p> 
+                    <p>Estudante com foco em desenvolvimento web, organizado, proativo e com facilidade para
+                        aprender novas tecnologias. Possuo experiência com recepção e organização de documentos
+                        digitais, além de familiaridade com ferramentas de gestão. Tenho conhecimentos práticos em
+                        desenvolvimento de aplicações utilizando HTML, CSS, JavaScript, React JS, Python, Java e
+                        MySQL, além de controle de versão com Git e GitHub. Busco uma oportunidade na área de
+                        desenvolvimento web para aplicar e expandir minhas habilidades técnicas em projetos reais..
+                    </p> 
                 </div>
             </div>
             <div className={styles.techs}>

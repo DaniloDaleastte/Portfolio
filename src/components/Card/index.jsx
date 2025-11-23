@@ -4,6 +4,7 @@ import { BsArrowRight } from 'react-icons/bs'
 import { Link } from 'react-router-dom'
 
 
+// eslint-disable-next-line react/prop-types
 function Card({ name, description, html_url }) {
     return (
         <section className={styles.card}>
