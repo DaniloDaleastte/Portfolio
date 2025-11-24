@@ -21,7 +21,7 @@ function Sobre() {
 
                     <p>Estudante com foco em desenvolvimento web, organizado, proativo e com facilidade para
                         aprender novas tecnologias. Possuo experiência com recepção e organização de documentos
-                        digitais, além de familiaridade com ferramentas de gestão. Tenho conhecimentos práticos em
+                        digitais, além de familiaridade com ferramentas de gestão.Tenho conhecimentos práticos em
                         desenvolvimento de aplicações utilizando HTML, CSS, JavaScript, React JS, Python, Java e
                         MySQL, além de controle de versão com Git e GitHub. Busco uma oportunidade na área de
                         desenvolvimento web para aplicar e expandir minhas habilidades técnicas em projetos reais..
